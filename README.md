@@ -6,7 +6,7 @@ Na visão geral abaixo você encontrará minha experiência de trabalho mais rec
 **Desenvolvedor** \
 [**Crowley Codes**] • Full-time \
 Linguagens & Tecnologias: `Lua`,`c#`\
-Projetos em destaque: [Magnatta Menu](), [Outros]()
+Projetos em destaque: [?](), [Outros]()
 ### 📒 Minhas Skills
 [![card](https://github-readme-stats.vercel.app/api?username=crowdv&theme=Dark&show_icons=true)](https://github.com/crowdv/github-readme-stats)
 
