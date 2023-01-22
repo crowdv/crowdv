@@ -10,6 +10,8 @@ Projetos em destaque: [?](), [Outros]()
 ### 📒 Minhas Skills
 [![card](https://github-readme-stats.vercel.app/api?username=crowdv&theme=Dark&show_icons=true)](https://github.com/crowdv/github-readme-stats)
 
+![Code Time](https://img.shields.io/endpoint?style=flat&url=https://codetime-api.datreks.com/badge/5303?logoColor=white%26project=%26recentMS=0%26showProject=false)
+
+
 <br/>
 Por favor, encontre-me no Discord para uma descrição mais detalhada da minha experiência de trabalho e certificação.
-![Code Time](https://img.shields.io/endpoint?style=flat&url=https://codetime-api.datreks.com/badge/5303?logoColor=white%26project=%26recentMS=0%26showProject=false)
