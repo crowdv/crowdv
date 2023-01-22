@@ -12,5 +12,4 @@ Projetos em destaque: [?](), [Outros]()
 
 <br/>
 Por favor, encontre-me no Discord para uma descrição mais detalhada da minha experiência de trabalho e certificação.
-<br/>
 ![Code Time](https://img.shields.io/endpoint?style=flat&url=https://codetime-api.datreks.com/badge/5303?logoColor=white%26project=%26recentMS=0%26showProject=false)
