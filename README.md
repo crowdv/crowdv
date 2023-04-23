@@ -13,12 +13,5 @@ Projetos em destaque: [?](), [Outros]()
 ### Agências Exploits:
 [![wakatime](https://wakatime.com/badge/user/1ffaf382-8d3f-40b9-91d9-0649a134ec6d/project/f7beb123-d7c1-4a9d-b1b0-3702b9f436cf.svg)](https://wakatime.com/badge/user/1ffaf382-8d3f-40b9-91d9-0649a134ec6d/project/f7beb123-d7c1-4a9d-b1b0-3702b9f436cf)
 
-### Agência UI:
-[![wakatime](https://wakatime.com/badge/user/1ffaf382-8d3f-40b9-91d9-0649a134ec6d/project/6a86a697-3557-4200-85cc-1b239841fd65.svg)](https://wakatime.com/badge/user/1ffaf382-8d3f-40b9-91d9-0649a134ec6d/project/6a86a697-3557-4200-85cc-1b239841fd65)
-
-
-### Design/Ui:
-
-
 <br/>
 Por favor, encontre-me no Discord para uma descrição mais detalhada da minha experiência de trabalho e certificação.
