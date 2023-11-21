@@ -4,6 +4,9 @@
     ["Linguagens"] = {
        "lua"
     },
+    ["Projetos"] = {
+       "Magnatta Menu"
+    }
   }
 ```
 <a href="https://github.com/crowdv">
