@@ -5,7 +5,9 @@
        "lua"
     },
     ["Projetos"] = {
-       "Magnatta Menu"
+       "Agência Magnatta",
+       "Agência Crowley Codes",
+       "Agência Menus"
     }
   }
 ```
