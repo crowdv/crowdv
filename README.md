@@ -8,7 +8,8 @@
        "Agência Magnatta",
        "Agência Crowley Codes",
        "Agência Menus"
-    }
+    },
+    ["👓"] = "Not available for new projects."
   }
 ```
 <a href="https://github.com/crowdv">
